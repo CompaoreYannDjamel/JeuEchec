@@ -1,0 +1,318 @@
+"C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.1\lib\idea_rt.jar=1382:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Utilisateur\.m2\repository\org\openjfx\javafx-controls\17.0.2\javafx-controls-17.0.2.jar;C:\Users\Utilisateur\.m2\repository\org\openjfx\javafx-graphics\17.0.2\javafx-graphics-17.0.2.jar;C:\Users\Utilisateur\.m2\repository\org\openjfx\javafx-base\17.0.2\javafx-base-17.0.2.jar;C:\Users\Utilisateur\.m2\repository\org\openjfx\javafx-fxml\17.0.2\javafx-fxml-17.0.2.jar -p C:\Users\Utilisateur\.m2\repository\com\dlsc\formsfx\formsfx-core\11.5.0\formsfx-core-11.5.0.jar;C:\Users\Utilisateur\.m2\repository\org\openjfx\javafx-base\17.0.2\javafx-base-17.0.2-win.jar;C:\Users\Utilisateur\.m2\repository\org\controlsfx\controlsfx\11.1.1\controlsfx-11.1.1.jar;C:\Users\Utilisateur\.m2\repository\org\openjfx\javafx-graphics\17.0.2\javafx-graphics-17.0.2-win.jar;C:\Users\Utilisateur\Desktop\TP2-INF1008\target\classes;C:\Users\Utilisateur\.m2\repository\org\kordamp\bootstrapfx\bootstrapfx-core\0.4.0\bootstrapfx-core-0.4.0.jar;C:\Users\Utilisateur\.m2\repository\org\openjfx\javafx-fxml\17.0.2\javafx-fxml-17.0.2-win.jar;C:\Users\Utilisateur\.m2\repository\org\openjfx\javafx-controls\17.0.2\javafx-controls-17.0.2-win.jar -m com.example.tp2inf1008/com.example.tp2inf1008.Main
+***** Menu *****
+1. Trouver une solution possible
+2. Trouver toutes les solutions possibles
+3. Sortie
+Entrez votre choix : 2
+Entrez la taille du plateau : 1
+Toutes les solutions trouvées :
+1 
+
+Nombre de tuples k-prometteurs produits : 1
+Nombre total de tuples k-prometteurs explorés : 1
+
+***** Menu *****
+1. Trouver une solution possible
+2. Trouver toutes les solutions possibles
+3. Sortie
+Entrez votre choix : 2
+Entrez la taille du plateau : 2
+Aucune solution trouvée.
+
+***** Menu *****
+1. Trouver une solution possible
+2. Trouver toutes les solutions possibles
+3. Sortie
+Entrez votre choix : 2
+Entrez la taille du plateau : 3
+Aucune solution trouvée.
+
+***** Menu *****
+1. Trouver une solution possible
+2. Trouver toutes les solutions possibles
+3. Sortie
+Entrez votre choix : 2
+Entrez la taille du plateau : 4
+Toutes les solutions trouvées :
+0 1 0 0 
+0 0 0 1 
+1 0 0 0 
+0 0 1 0 
+
+0 0 1 0 
+1 0 0 0 
+0 0 0 1 
+0 1 0 0 
+
+Nombre de tuples k-prometteurs produits : 2
+Nombre total de tuples k-prometteurs explorés : 8
+
+***** Menu *****
+1. Trouver une solution possible
+2. Trouver toutes les solutions possibles
+3. Sortie
+Entrez votre choix : 2
+Entrez la taille du plateau : 5
+Toutes les solutions trouvées :
+1 0 0 0 0 
+0 0 1 0 0 
+0 0 0 0 1 
+0 1 0 0 0 
+0 0 0 1 0 
+
+1 0 0 0 0 
+0 0 0 1 0 
+0 1 0 0 0 
+0 0 0 0 1 
+0 0 1 0 0 
+
+0 1 0 0 0 
+0 0 0 1 0 
+1 0 0 0 0 
+0 0 1 0 0 
+0 0 0 0 1 
+
+0 1 0 0 0 
+0 0 0 0 1 
+0 0 1 0 0 
+1 0 0 0 0 
+0 0 0 1 0 
+
+
+
+Nombre de tuples k-prometteurs produits : 10
+Nombre total de tuples k-prometteurs explorés : 50
+
+***** Menu *****
+1. Trouver une solution possible
+2. Trouver toutes les solutions possibles
+3. Sortie
+Entrez votre choix : 2
+Entrez la taille du plateau : 6
+Toutes les solutions trouvées :
+0 1 0 0 0 0 
+0 0 0 1 0 0 
+0 0 0 0 0 1 
+1 0 0 0 0 0 
+0 0 1 0 0 0 
+0 0 0 0 1 0 
+
+0 0 1 0 0 0 
+0 0 0 0 0 1 
+0 1 0 0 0 0 
+0 0 0 0 1 0 
+1 0 0 0 0 0 
+0 0 0 1 0 0 
+
+0 0 0 1 0 0 
+1 0 0 0 0 0 
+0 0 0 0 1 0 
+0 1 0 0 0 0 
+0 0 0 0 0 1 
+0 0 1 0 0 0 
+
+0 0 0 0 1 0 
+0 0 1 0 0 0 
+1 0 0 0 0 0 
+0 0 0 0 0 1 
+0 0 0 1 0 0 
+0 1 0 0 0 0 
+
+Nombre de tuples k-prometteurs produits : 4
+Nombre total de tuples k-prometteurs explorés : 24
+
+***** Menu *****
+1. Trouver une solution possible
+2. Trouver toutes les solutions possibles
+3. Sortie
+Entrez votre choix : 2
+Entrez la taille du plateau : 7
+Toutes les solutions trouvées :
+1 0 0 0 0 0 0 
+0 0 1 0 0 0 0 
+0 0 0 0 1 0 0 
+0 0 0 0 0 0 1 
+0 1 0 0 0 0 0 
+0 0 0 1 0 0 0 
+0 0 0 0 0 1 0 
+
+1 0 0 0 0 0 0 
+0 0 0 1 0 0 0 
+0 0 0 0 0 0 1 
+0 0 1 0 0 0 0 
+0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 
+0 0 0 0 1 0 0 
+
+1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 
+0 1 0 0 0 0 0 
+0 0 0 0 0 1 0 
+0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 
+
+1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 
+0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 
+0 0 0 0 0 0 1 
+0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 
+
+
+
+Nombre de tuples k-prometteurs produits : 40
+Nombre total de tuples k-prometteurs explorés : 280
+
+***** Menu *****
+1. Trouver une solution possible
+2. Trouver toutes les solutions possibles
+3. Sortie
+Entrez votre choix : 2
+Entrez la taille du plateau : 8
+Toutes les solutions trouvées :
+1 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 1 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 1 0 0 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 1 
+0 1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 1 0 0 0 0 0 
+
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+0 1 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+
+
+Nombre de tuples k-prometteurs produits : 92
+Nombre total de tuples k-prometteurs explorés : 736
+
+***** Menu *****
+1. Trouver une solution possible
+2. Trouver toutes les solutions possibles
+3. Sortie
+Entrez votre choix : 2
+Entrez la taille du plateau : 9
+Toutes les solutions trouvées :
+1 0 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 1 0 0 
+0 0 0 0 1 0 0 0 0 
+
+1 0 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 
+0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 
+0 0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 
+
+1 0 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 1 
+0 1 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 0 
+0 0 0 1 0 0 0 0 0 
+
+1 0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 0 
+0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 1 
+0 0 1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 0 
+
+
+
+Nombre de tuples k-prometteurs produits : 352
+Nombre total de tuples k-prometteurs explorés : 3168
+
+***** Menu *****
+1. Trouver une solution possible
+2. Trouver toutes les solutions possibles
+3. Sortie
+Entrez votre choix : 2
+Entrez la taille du plateau : 10
+Toutes les solutions trouvées :
+1 0 0 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 
+
+1 0 0 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 
+
+1 0 0 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 1 0 0 0 0 0 
+
+1 0 0 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 1 0 0 0 0 
+Nombre de tuples k-prometteurs produits : 724
+Nombre total de tuples k-prometteurs explorés : 7240

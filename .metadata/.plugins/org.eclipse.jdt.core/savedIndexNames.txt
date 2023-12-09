@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Utilisateur\Desktop\Session 4\inf1008\TP2-INF1008\.metadata\.plugins\org.eclipse.jdt.core
